@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/stark/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="aff7bb65a039e94964c4932e69d06cc8ebace161">
+        <dex dex="/home/stark/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bbd4cc4fabf2e4b07eb751f729dccfa3b7641ff4/classes.dex" />
+    </item>
+    <item
+        jar="/home/stark/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5c0615fd36ca98a966cc04de85f8ad3ae871216f">
+        <dex dex="/home/stark/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_59c18fbd496d50183d221a025ae546e5bdab7d28/classes.dex" />
+    </item>
+    <item
+        jar="/home/stark/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/stark/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_e4e59151d0a1d50415a5237aa63fffc25e35f041/classes.dex" />
+    </item>
+    <item
+        jar="/home/stark/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/stark/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_d87d7f340143ac8d95249f19921ee5eceb2882e7/classes.dex" />
+    </item>
+    <item
+        jar="/home/stark/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/stark/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_f23c25607b5441162b1597c5e0079f082372199c/classes.dex" />
+    </item>
+    <item
+        jar="/home/stark/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/stark/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_9b5e3aaab9bfe67ce1caeb1154359fb864be8b5a/classes.dex" />
+    </item>
+    <item
+        jar="/home/stark/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/stark/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_4652abc7ecc9a79c20e48ff40858f01cf62e6819/classes.dex" />
+    </item>
+    <item
+        jar="/home/stark/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/stark/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_86d15be1d074ca02cf6923af774c2fef93102bb7/classes.dex" />
+    </item>
+
+</items>
